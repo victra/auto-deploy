@@ -1,3 +1,3 @@
 run_deploy:
-	cd ~/codedoct/codedoct-frontoffice/
-	make deploy_production
+	cd ~/codedoct/codedoct-frontoffice/ && make deploy_production
+
